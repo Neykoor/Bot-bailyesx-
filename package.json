@@ -8,7 +8,9 @@
 	},
 	"dependencies": {
 		"@neykoor/baileys": "npm:@neykoor/baileys@7.0.16-rc15",
+		"jimp": "^1.6.1",
 		"pino": "^9.6.0",
-		"qrcode-terminal": "^0.12.0"
+		"qrcode-terminal": "^0.12.0",
+		"sharp": "*"
 	}
 }
