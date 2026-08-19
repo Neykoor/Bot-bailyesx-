@@ -1,0 +1,14 @@
+{
+	"name": "baileysx-test-bot",
+	"type": "module",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node src/index.mjs"
+	},
+	"dependencies": {
+		"@neykoor/baileys": "file:../BaileysX-main",
+		"pino": "^9.6.0",
+		"qrcode-terminal": "^0.12.0"
+	}
+}
